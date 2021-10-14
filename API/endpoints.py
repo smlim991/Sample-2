@@ -10,7 +10,8 @@ import db.db as db
 app = Flask(__name__)
 api = Api(app)
 
-
+HELLO = "Hola"
+WORLD = "mundo"
 @api.route('/hello')
 class HelloWorld(Resource):
     """
