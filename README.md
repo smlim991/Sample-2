@@ -1,12 +1,10 @@
-# Class Demo
+# Chatbot server
 
 ## Requirements
 
--Show 
-- how its going
-
-#Class
-- wefwe
-- wefwefwef
-- Waewofijawef;oija
-- wa;oiejfowiejfwoeifjowiejf
+- Allow user to enter chat room
+- Greet the user
+- Keep track of users
+- Answer user questions
+- Recognize user has left
+## Design
